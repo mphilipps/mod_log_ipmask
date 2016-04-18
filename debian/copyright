@@ -12,5 +12,5 @@ License: GPL-3
 # the following clauses, or change it to suit. Delete these two lines
 Files: debian/*
 Copyright: 2016 Maximilian Philipps <mphilipps@saltation.de>
-License: 
+License: GPL-3 
 

@@ -69,3 +69,5 @@ binary:
 	dh_gencontrol
 	dh_md5sums
 	dh_builddeb
+binary-arch: build
+binary-indep: build
