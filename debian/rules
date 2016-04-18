@@ -71,3 +71,5 @@ binary:
 	dh_builddeb
 build-arch: build
 build-indep: build
+binary-indep:
+binary-arch:
