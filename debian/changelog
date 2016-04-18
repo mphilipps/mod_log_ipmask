@@ -1,0 +1,5 @@
+libapache2-mod-log-ipmask (1.0-1-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Maximilian Philipps <mphilipps@saltation.de>  Wed, 13 Apr 2016 12:10:11 +0000

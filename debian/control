@@ -1,0 +1,17 @@
+Source: libapache2-mod-log-ipmask
+Priority: extra
+Maintainer: Maximilian Philipps <mphilipps@saltation.de>
+Build-Depends: debhelper (>= 8.0.0), apache2-threaded-dev
+Standards-Version: 3.9.3
+Section: httpd
+Homepage: https://github.com/webfactory/mod_log_ipmask
+#Vcs-Git: git://git.debian.org/collab-maint/mod-log-ipmask.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/mod-log-ipmask.git;a=summary
+
+
+Package: libapache2-mod-log-ipmask
+Architecture: any
+Depends: apache2 | apache2-mpm, ${shlibs:Depends}, ${misc:Depends}
+Description: This Apache plugin can be used to mask IP addresses in log files.
+ This Apache plugin can be used to mask IPv4 addresses in log files.
+ Originally written by the Sächsischen-Datenschutzbeauftragten.
