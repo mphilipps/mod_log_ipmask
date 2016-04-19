@@ -1,2 +1,3 @@
 libapache2-mod-log-ipmask binary: apache2-module-does-not-depend-on-apache2-api
 libapache2-mod-log-ipmask binary: new-package-should-close-itp-bug
+libapache2-mod-log-ipmask binary: hardening-no-fortify-functions
