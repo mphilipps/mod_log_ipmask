@@ -1,8 +1,8 @@
 Source: libapache2-mod-log-ipmask
 Priority: extra
 Maintainer: Maximilian Philipps <mphilipps@saltation.de>
-Build-Depends: debhelper (>= 8.1.5~), apache2-threaded-dev
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 10.2.5~), apache2-threaded-dev
+Standards-Version: 3.9.8
 Section: httpd
 Homepage: https://github.com/webfactory/mod_log_ipmask
 #Vcs-Git: git://git.debian.org/collab-maint/mod-log-ipmask.git
