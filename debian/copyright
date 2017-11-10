@@ -6,12 +6,10 @@ Files: *
 Copyright: 2008 Mario Oßwald
            2008 Florian van Koten
 License: GPL-3
- `/usr/share/common-licenses/GPL-3'
 
 # If you want to use GPL v2 or later for the /debian/* files use 
 # the following clauses, or change it to suit. Delete these two lines
 Files: debian/*
 Copyright: 2016 Maximilian Philipps <mphilipps@saltation.de>
-License: GPL-3 
- `/usr/share/common-licenses/GPL-3'
+License: GPL-3
 
